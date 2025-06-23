@@ -12,4 +12,4 @@ getgenv().showarrows = false -- only if you want arrow keys to be shown.
 getgenv().keydrag = false -- only if you want the keys to be draggable, can also be buggy, will be worked on in the future.
 getgenv().mschar = true -- only if you want an extra ms counter to be shown on your character, feature suggested by @hiff
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Zirmith/Util-Tools/main/keys"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xxxpawnstarxxx/KeyStrokes/refs/heads/main/keys.lua"))()
